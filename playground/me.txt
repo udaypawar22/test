@@ -1,5 +1,0 @@
-{{#user}}
-Name: Udaysingh Pawar
-Skills: HTML, CSS, JS, Next.js, React.js, Node.js, Express.js, MongoDB, Tailwind css, Java, Python, Bootstrap, MySQL, git
-Email: udaysinghpawar0302@gmail.com
-{{/user}}
